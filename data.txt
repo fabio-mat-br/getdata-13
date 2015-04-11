@@ -1,0 +1,62 @@
+
+* README.html
+* README.md
+* UCI HAR Dataset
+    * README.txt
+    * activity_labels.txt
+    * features.txt
+    * features_info.txt
+    * test
+        * Inertial Signals
+            * body_acc_x_test.txt
+            * body_acc_y_test.txt
+            * body_acc_z_test.txt
+            * body_gyro_x_test.txt
+            * body_gyro_y_test.txt
+            * body_gyro_z_test.txt
+            * total_acc_x_test.txt
+            * total_acc_y_test.txt
+            * total_acc_z_test.txt
+        * X_test.txt
+        * subject_test.txt
+        * y_test.txt
+    * train
+        * Inertial Signals
+            * body_acc_x_train.txt
+            * body_acc_y_train.txt
+            * body_acc_z_train.txt
+            * body_gyro_x_train.txt
+            * body_gyro_y_train.txt
+            * body_gyro_z_train.txt
+            * total_acc_x_train.txt
+            * total_acc_y_train.txt
+            * total_acc_z_train.txt
+        * X_train.txt
+        * subject_train.txt
+        * y_train.txt
+* codebook.md
+* run_analysis.R
+
+
+./UCI HAR Dataset/train:
+total 32252
+drwxr-xr-x    6 Suzana e Administ        0 Apr 11 21:28 .
+drwxr-xr-x    8 Suzana e Administ     4096 Apr 11 21:28 ..
+drwxr-xr-x    1 Suzana e Administ     4096 Apr 11 21:28 
+-rw-r--r--    1 Suzana e Administ 66006256 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ    20152 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ    14704 Nov 29  2012 
+
+./UCI HAR Dataset/train/Inertial Signals:
+total 66238
+drwxr-xr-x    1 Suzana e Administ     4096 Apr 11 21:28 .
+drwxr-xr-x    1 Suzana e Administ        0 Apr 11 21:28 ..
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
+-rw-r--r--    1 Suzana e Administ 15071600 Nov 29  2012 
