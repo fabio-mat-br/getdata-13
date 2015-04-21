@@ -1,6 +1,5 @@
-= CODE BOOK
-
-== Data columns
+# CODE BOOK
+## Data columns
 
 Columns result:
 
